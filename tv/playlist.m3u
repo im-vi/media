@@ -1,0 +1,34 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+
+#EXTINF:-1 tvg-id="ch1" tvg-name="TVP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1200px-Telewizja_Polska_-_TVP1_logo_2003.svg.png" group-title="Telewizja",TVP1 HD
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+
+#EXTINF:-1 tvg-id="ch2" tvg-name="POLSAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="Telewizja",Polsat
+https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+
+#EXTINF:-1 tvg-id="ch3" tvg-name="PN" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="Telewizja",Polsat News
+http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+
+#EXTINF:-1 tvg-id="ch4" tvg-name="BBCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="Telewizja",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+
+#EXTINF:-1 tvg-id="ch5" tvg-name="KAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/1200px-Kan11Logo.svg.png" group-title="Telewizja",KAN 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ch6" tvg-name="ARD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DasErste_-_Cornerlogo_seit_dem_28._Februar_2015.png" group-title="Telewizja",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-id="ch7" tvg-name="RTLLU" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="Telewizja",RTL Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch8" tvg-name="BBC1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="Telewizja",BBC One
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+
+#EXTINF:-1 tvg-id="ch9" tvg-name="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="Telewizja",BBC Two
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+
+#EXTINF:-1 tvg-id="ch10" tvg-name="TVEINT" tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Telewizja",TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
+
+#EXTINF:-1 tvg-id="ch11" tvg-name="24HES" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Telewizja",Canal 24 Horas
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
