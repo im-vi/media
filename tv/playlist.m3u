@@ -32,3 +32,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_720.m3u8
 
 #EXTINF:-1 tvg-id="ch11" tvg-name="24HES" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Telewizja",Canal 24 Horas
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+
+#EXTINF:-1 tvg-id="ch12" tvg-name="PS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/353px-Polsat_Sport_1_2024.svg.png" group-title="Telewizja",Polsat Sport 1
+https://media.sejmtracker.pl/tv/polsatsport1.m3u8
