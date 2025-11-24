@@ -35,3 +35,12 @@ https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="ch12" tvg-name="LA1" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Telewizja",La 1 Nacional
 https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="ch13" tvg-name="FR2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="Telewizja",France 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+
+#EXTINF:-1 tvg-id="ch14" tvg-name="ORF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg" group-title="Telewizja",ORF 1
+https://strm.hdtvizlecanli.com/live/orf1.m3u8
+
+#EXTINF:-1 tvg-id="ch14" tvg-name="SRF1" tvg-logo="https://i.imgur.com/xgml2Pl.png" group-title="Telewizja",SRF 1
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
