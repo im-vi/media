@@ -42,6 +42,8 @@ https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 #EXTINF:-1 tvg-id="ch14" tvg-name="ORF1" tvg-logo="https://media.sejmtracker.pl/tv/orf1.png" group-title="Telewizja",ORF 1
 https://strm.hdtvizlecanli.com/live/orf1.m3u8
 
-#EXTINF:-1 tvg-id="ch14" tvg-name="SRF1" tvg-logo="https://i.imgur.com/xgml2Pl.png" group-title="Telewizja",SRF 1
+#EXTINF:-1 tvg-id="ch15" tvg-name="SRF1" tvg-logo="https://i.imgur.com/xgml2Pl.png" group-title="Telewizja",SRF 1
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 
+#EXTINF:-1 tvg-id="ch16" tvg-name="A3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL6cLWb4gXRj6GgfaZ7QLxC18p1UYDiFimzj4Ne94GHw&s=10" group-title="Telewizja",Antena 3
+http://176.65.146.237:8401/play/a0ae/index.m3u8
