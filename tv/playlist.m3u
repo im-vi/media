@@ -18,6 +18,9 @@ https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3
 #EXTINF:-1 tvg-id="ch6" tvg-name="ARD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DasErste_-_Cornerlogo_seit_dem_28._Februar_2015.png" group-title="Telewizja",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
+#EXTINF:-1 tvg-id="ch6-1" tvg-name="ZDF" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Telewizja",ZDF
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+
 #EXTINF:-1 tvg-id="ch7" tvg-name="RTLLU" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="Telewizja",RTL Lëtzebuerg
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 
